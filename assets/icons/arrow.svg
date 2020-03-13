@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="75px" height="14px" viewBox="0 0 75 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rekrutacja" transform="translate(-478.000000, -1321.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="slider_nav" transform="translate(478.000000, 1313.000000)">
+                <g id="arrow" transform="translate(37.500000, 15.000000) scale(-1, 1) translate(-37.500000, -15.000000) translate(0.000000, 8.000000)">
+                    <path d="M67.19482,0.37081 L73.57372,5.03881 C74.25731,5.53881 74.64792,6.26541 74.64792,7.02711 C74.64792,7.78883 74.25339,8.51151 73.56592,9.01151 L67.19482,13.62871 C67.01513,13.75762 66.8081,13.82012 66.60498,13.82012 C66.29641,13.82012 65.99172,13.67547 65.7925,13.40594 C65.46828,12.96063 65.56594,12.33174 66.01516,12.01144 L71.55,7.99949389 L0.191,8 L0.191,6 L71.494,5.99949389 L66.01126,1.98796 C65.56595,1.66374 65.46829,1.03484 65.79642,0.58956 C66.12064,0.14425 66.74564,0.04659 67.19482,0.37081 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
